@@ -14,7 +14,7 @@ All our code trained on Kaggle notebook
 - train.ipynb: script to finetune model on Competition data, MLQA hindi, XQuaD hindi on kaggle gpus, you can run it on kaggle: https://www.kaggle.com/nguyenduongthanh/simple-train
 
 ## Inference
-- 10-folds-inference: script to create inference for competition with model trained, you can run it on kaggle: https://www.kaggle.com/nguyenduongthanh/simple-10-folds-of-muril-large
+- 10-folds-inference.ipynb: script to create inference for competition with model trained, you can run it on kaggle: https://www.kaggle.com/nguyenduongthanh/simple-10-folds-of-muril-large
 
 ## Trained model
 - Muril Large Squad v2: https://www.kaggle.com/nguyenduongthanh/muril-large-squad-v2
